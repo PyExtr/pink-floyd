@@ -24,7 +24,7 @@ Using the Pink Floyd Discography Explorer is easy. Run the Python script in your
 1. Clone this repository to your local machine using `git clone <repository_link>`.
 2. Ensure that you have Python installed. If not, download it from [here](https://www.python.org/downloads/).
 3. Navigate to the directory where you cloned the repository.
-4. Run `python main.py` to start the application.
+4. Run `Pink_Floyd_DB.py` to start the application.
 
 # Contribution
 
